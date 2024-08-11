@@ -578,11 +578,11 @@ span{
     
 
     #darkicon{
-        position: absolute;
+        position: relative;
         right: 7rem;
         font-size: 2.6rem;
         color: var(--text-color);
-        margin-bottom: .1rem;
+    
     }
 
     #id{
